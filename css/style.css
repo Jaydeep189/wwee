@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  background-color:#ebecf1;
+}
+h1{
+  padding-bottom: 10px;
+  font-family: 'Anton', sans-serif;
+  font-size:4rem;
+
+}
+#top{
+  background-color: #1b1c25;
+}
+.navbar-brand{
+  color:#ebecf1;
+  font-size: 2.5rem;
+}
+.name_top{
+  font-family: 'Shadows Into Light', cursive;
+  padding: 1rem;
+  margin: 0 1rem 0 0;
+}
+
+#card_section{
+    text-align: center;
+    padding: 2% 17%;
+}
+.text_card{
+  padding: 5px;
+  color: white;
+  text-align: left;
+}
+.card-title{
+  font-family: 'Anton', sans-serif;
+  font-size:2rem;
+}
+.insta_icon{
+  margin-left: 10px;
+  color: #ebecf1;
+}
+#footer{
+  background-color: #1b1c25;
+  color: #ebecf1;
+  padding:1%;
+  font-size:0.7rem;
+}
+.image_view{
+  height: 30%;
+  width:50%;
+  padding-bottom: 30px;
+}
+.image_view1{
+  height: 18%;
+  width:30%;
+  padding-bottom: 30px;
+}
+#last_page{
+  text-align: center;
+  padding: 5% 2%;
+}

@@ -72,4 +72,6 @@ h1{
   font-family: 'Anton', sans-serif;
   font-size:3rem;
   }
+  .dropdown-item{
+    font-size:1.5rem;
 }

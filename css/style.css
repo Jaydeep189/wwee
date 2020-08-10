@@ -68,5 +68,8 @@ h1{
   .btn-link{
   font-size: 1.5rem;
   }
-
+  .card-title{
+  font-family: 'Anton', sans-serif;
+  font-size:3rem;
+  }
 }

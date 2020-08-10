@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://wrestlingdatabase.in/sitemap
+Sitemap: https://wrestlingdatabase.in/sitemap.xml

@@ -61,3 +61,12 @@ h1{
 .btn-link{
   font-size: 1.5rem;
 }
+@media only screen and (max-width: 540px){
+  body{
+  font-size: 2rem;
+  }
+  .btn-link{
+  font-size: 1.5rem;
+  }
+
+}
